@@ -1,5 +1,8 @@
 The Beast Realm Card Game
 
+
+How to play ?
+----------------------------------------------
 Attack Button pressed:
 Card attack the enemy in front. 
 If the enemy dies, card takes its place. 
