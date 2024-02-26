@@ -1,6 +1,5 @@
 The Beast Realm Card Game
 
-
 How to play ?
 ----------------------------------------------
 Attack Button pressed:
